@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/peertopeervideomeeting/static/css/main.44df9764.css",
+    "main.js": "/peertopeervideomeeting/static/js/main.61620682.js",
+    "static/js/453.f7dc2a81.chunk.js": "/peertopeervideomeeting/static/js/453.f7dc2a81.chunk.js",
+    "index.html": "/peertopeervideomeeting/index.html",
+    "main.44df9764.css.map": "/peertopeervideomeeting/static/css/main.44df9764.css.map",
+    "main.61620682.js.map": "/peertopeervideomeeting/static/js/main.61620682.js.map",
+    "453.f7dc2a81.chunk.js.map": "/peertopeervideomeeting/static/js/453.f7dc2a81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44df9764.css",
+    "static/js/main.61620682.js"
+  ]
+}
